@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stanislavma
-- 👀 I’m interested in Spring Boot applications, and microservices architectures.
+- 👀 I’m interested in Spring Boot applications and microservices architectures.
 - 💞️ I’m looking to collaborate on innovative projects with Java
 - 📫 How to reach me: smdev@yandex.com
 
